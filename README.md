@@ -1,6 +1,6 @@
-# ISCW '17
+# CHI '18
 
-ISCW 2017 submission
+CHI 2018 Custom-Fit Ear EEG Passthoughts submission
 
 ## compiling paper
 
